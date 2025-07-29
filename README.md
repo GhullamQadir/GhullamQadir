@@ -1,4 +1,4 @@
-<h1 align="center">I'm Ghullam Qadir</h1>
+<h1 align="center"> Hi My Name is Ghullam Qadir</h1>
 <h3 align="center">Passionate about Machine Learning , Deep Learning & AI projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghullamqadir&label=Profile%20views&color=0e75b6&style=flat" alt="ghullamqadir" /> </p>
