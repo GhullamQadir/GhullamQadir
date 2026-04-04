@@ -97,11 +97,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GhullamQadir/GhullamQadir/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GhullamQadir/GhullamQadir/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GhullamQadir/GhullamQadir/output/pacman-contribution-graph.svg">
-</picture>
+![snake animation](https://raw.githubusercontent.com/ghullamqadir/GhullamQadir/output/dist/snake.svg)
 
 ###
 
