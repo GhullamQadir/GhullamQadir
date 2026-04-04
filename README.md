@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on https://github.com/GhullamQadir/Tactician-AI<br>👯 I’m looking to collaborate on Open source project<br>🌱 I’m currently learning Machine Learning, Data science.<br>📫 How to reach me ghullamq916@gmail.com<br>💬 Ask me about AI and Machine Learning.<br>⚡ Fun fact I am best at sports like Cricket, Badminton & Table Tennis. <br>
+🔭 I’m currently working on Machine learning and Data Science projects <br>👯 I’m looking to collaborate on Open source project<br>🌱 I’m currently learning Machine Learning, Data science.<br>📫 How to reach me ghullamq916@gmail.com<br>💬 Ask me about AI and Machine Learning.<br>⚡ Fun fact I am best at sports like Cricket, Badminton & Table Tennis. <br>
 
 
 ## 🌐 Socials:
