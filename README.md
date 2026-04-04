@@ -97,7 +97,7 @@
 
 ###
 
-![snake animation](https://raw.githubusercontent.com/GhullamQadir/GhullamQadir/refs/heads/main/.github/workflows./generate_snake.yml)
+![snake animation](https://raw.githubusercontent.com/GhullamQadir/GhullamQadir/refs/heads/output/snake.svg)
 
 ###
 
