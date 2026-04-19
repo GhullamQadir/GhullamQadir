@@ -18,7 +18,7 @@
 
 <br clear="both">
 
-<p align="center">💫 About Me:<br>🔭 I’m currently working on Machine learning and Data Science projects<br>👯 I’m looking to collaborate on Open source project<br>🌱 I’m currently learning Machine Learning, Data science.<br>📫 How to reach me ghullamq916@gmail.com<br>💬 Ask me about AI and Machine Learning.<br>⚡ Fun fact I am best at sports like Cricket, Badminton & Table Tennis.</p>
+<p align="center"> About Me:<br> I’m currently working on Machine learning and Data Science projects<br> I’m looking to collaborate on Open source project<br> I’m currently learning Machine Learning, Data science.<br> How to reach me ghullamq916@gmail.com<br> Ask me about AI and Machine Learning.<br> Fun fact I am best at sports like Cricket, Badminton & Table Tennis.</p>
 
 ###
 
