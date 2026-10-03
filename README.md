@@ -1,5 +1,3 @@
-<h1 align="center">Hey 👋What's Up Buddy?</h1>
-
 ###
 
 <br clear="both">
@@ -9,10 +7,6 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://count.getloli.com/@:GhullamQadir?theme=3d-num&padding=4&offset=0&scale=1.1&align=bottom&pixelated=1&darkmode=auto"  />
-</div>
 
 ###
 
